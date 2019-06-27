@@ -1,0 +1,26 @@
+{
+  "name": "ribytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haliaeetusvocifer/riby-express-test.git"
+  },
+  "author": "Oluwasegun Haziz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haliaeetusvocifer/riby-express-test/issues"
+  },
+  "homepage": "https://github.com/haliaeetusvocifer/riby-express-test#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1"
+  }
+}
